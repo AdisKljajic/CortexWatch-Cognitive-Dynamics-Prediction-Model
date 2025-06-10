@@ -1,2 +1,2 @@
 # CortexWatch-Cognitive-Dynamics-Prediction-Model
-CortexWatch is an AI-powered prediction model designed to monitor cognitive and emotional patterns in real time, enabling early detection of negative mental states such as depression or anxiety. By analyzing subtle shifts in thought dynamics, CortexWatch helps intervene before a crisis develops.
+CortexWatch is an advanced neurological prediction software that monitors and analyzes real-time electrical signals in the brain using EEG data. By decoding cognitive patterns and neural dynamics, it predicts shifts in mental states before they deteriorate into harmful conditions. CortexWatch enables early, precision-driven interventions by interpreting brainwave activity to forecast changes in emotional and cognitive stability.
